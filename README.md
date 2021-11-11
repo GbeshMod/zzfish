@@ -85,7 +85,7 @@ $ docker run --rm -it htrtech/zphisher
 :: Workflow ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src="https://raw.githubusercontent.com/htr-tech/zphisher/master/.imgs/wf.gif"/>
 </p>
 
 ### Special Thanks :
